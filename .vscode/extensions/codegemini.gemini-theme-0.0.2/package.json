@@ -1,0 +1,43 @@
+{
+	"name": "gemini-theme",
+	"displayName": "Gemini Theme",
+	"description": "Devido a eu nunca conseguir encontrar um tema que eu gostasse, decidi fazer o meu proprio Theme, inspirado no signo de Gemeos.",
+	"version": "0.0.2",
+	"publisher": "CodeGemini",
+	"engines": {
+		"vscode": "^1.82.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "assets/logo.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Gemini Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Gemini Theme-color-theme.json"
+			}
+		]
+	},
+	"galleryBanner": {
+		"color": "#0a1128",
+		"theme": "dark"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/viniciusram2025/Gemini-Theme"
+	},
+	"homepage": "https://github.com/viniciusram2025/Gemini-Theme/blob/main/README.md",
+	"__metadata": {
+		"id": "77015faa-eaa5-467e-8778-36260dac9170",
+		"publisherId": "638ababa-0198-4b05-b709-ca0ad9297a08",
+		"publisherDisplayName": "Code.Gemini",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1708718933874,
+		"pinned": false
+	}
+}
